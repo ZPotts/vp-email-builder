@@ -1,0 +1,5 @@
+- get form functionality in place
+- get page running on Lambda
+- collect data on AWS
+- get builder running
+- style with tailwind
